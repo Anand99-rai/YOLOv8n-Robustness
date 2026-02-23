@@ -1,9 +1,8 @@
-venv/
-
+../dataset/
+../cv_env/
+*.pt
+*.jpg
+*.png
+*.jpeg
 __pycache__/
-*.pyc
-.ipynb_checkpoints
-models/
-
-# VSCode settings
-.vscode/
+.ipynb_checkpoints/
